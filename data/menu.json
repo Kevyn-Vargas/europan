@@ -199,7 +199,7 @@
           "name": "Lasagna ~ Bolognesa (Ragú)",
           "description": "Pasta 100% Artesanal, Bolognesa, Bechamel, Parmesano, Mozzarella, Pomodoro.",
           "price": 32000,
-          "image": "foods/pastas/lasagna.jpg"
+          "image": ""
         }
       ]
     },
@@ -212,42 +212,42 @@
           "name": "Vino de la Casa",
           "description": "Vino Joven",
           "price": 80000,
-          "image": "foods/bebidas/vino_casa.jpg"
+          "image": ""
         },
         {
           "id": 30,
           "name": "Copa Vino",
           "description": "Copa Vino Carmenere 'Livana' de la Casa.",
           "price": 15000,
-          "image": "foods/bebidas/copa_vino.jpg"
+          "image": ""
         },
         {
           "id": 31,
           "name": "Cerveza Heineken",
           "description": "Lata Cerveza Heineken 330ml.",
           "price": 10000,
-          "image": "foods/bebidas/heineken.jpg"
+          "image": ""
         },
         {
           "id": 32,
           "name": "Agua",
           "description": "Botella de agua de manantial.",
           "price": 3500,
-          "image": "foods/bebidas/agua.jpg"
+          "image": ""
         },
         {
           "id": 33,
           "name": "Limonada Natural",
           "description": "",
           "price": 4500,
-          "image": "foods/bebidas/limonada.jpg"
+          "image": ""
         },
         {
           "id": 34,
           "name": "Coca Cola",
           "description": "Botella 400 ml.",
           "price": 4500,
-          "image": "foods/bebidas/coca_cola.jpg"
+          "image": ""
         }
       ]
     }
