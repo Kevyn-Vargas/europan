@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'Adelle';
+  src: url('./fonts/adelle-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muara';
+  src: url('./fonts/muara-demo.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@import "tailwindcss";
+
+:root {
+  /* Colors */
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-muted: #6b6b6b;
+  --color-accent: #c0392b;
+  --color-accent-hover: #a93226;
+  --color-dark: #1e3329;
+  --color-dark-light: #2a4a3a;
+  --color-border: #e0e0e0;
+  --color-border-dark: #d0d0d0;
+  --color-overlay: rgba(0, 0, 0, 0.45);
+  --color-white: #ffffff;
+  --color-gold: #c4a44a;
+
+  /* Typography */
+  --font-body: 'Adelle', Georgia, serif;
+  --font-heading: 'Muara', Georgia, serif;
+
+  /* Navbar heights */
+  --top-bar-height: 44px; /* info bar */
+  --nav-height: 100px;     /* main navbar */
+}
+
+.nav-link:hover .nav-underline {
+  transform: scaleX(1) !important;
+}
+
+/* On mobile, info bar is hidden so top-bar-height = 0 */
+@media (max-width: 767px) {
+  :root {
+    --top-bar-height: 0px;
+    --nav-height: 70px;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: var(--color-dark); border-radius: 3px; }

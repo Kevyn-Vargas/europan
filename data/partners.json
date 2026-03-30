@@ -1,0 +1,60 @@
+{
+  "partners": [
+    {
+      "id": 1,
+      "name": "dilizie",
+      "logo": "/logos/dilizie.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "di-nardi",
+      "logo": "/logos/di-nardi.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "logo-bayer",
+      "logo": "/logos/logo-bayer.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "pizza-fest",
+      "logo": "/logos/pizza-fest.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "queso-gorgonzola",
+      "logo": "/logos/queso-gorgonzola.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "queso-pecorino",
+      "logo": "/logos/queso-pecorino.jpeg"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "name": "Campionato Mondiale della Pizza",
+      "location": "Parma, Italia",
+      "year": "2023",
+      "description": "Participación en la competición internacional más prestigiosa de pizza napoletana.",
+      "badge": "Participante"
+    },
+    {
+      "id": 2,
+      "name": "Fòrum Gastronòmic Barcelona",
+      "location": "Barcelona, España",
+      "year": "2024",
+      "description": "Showcooking y ponencia sobre la tradición de la pizza artesanal napolitana.",
+      "badge": "Ponente"
+    },
+    {
+      "id": 3,
+      "name": "Napoli Pizza Village",
+      "location": "Nápoles, Italia",
+      "year": "2023",
+      "description": "Festival internacional con más de 50 maestros pizzaiolos del mundo.",
+      "badge": "Invitado"
+    }
+  ]
+}
