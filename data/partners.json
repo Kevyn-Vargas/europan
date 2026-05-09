@@ -29,6 +29,21 @@
       "id": 6,
       "name": "queso-pecorino",
       "logo": "/logos/queso-pecorino.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "grana-padano",
+      "logo": "/logos/granapadano.jpg"
+    },
+    {
+      "id": 8,
+      "name": "provolone-valpadana",
+      "logo": "/logos/provolone-valpadana.jpg"
+    },
+    {
+      "id": 9,
+      "name": "parmiggiano-reggiano",
+      "logo": "/logos/parmiggiano.jpg"
     }
   ],
   "events": [
