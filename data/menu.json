@@ -7,28 +7,28 @@
         {
           "id": 1,
           "name": "Margherita Gialla",
-          "description": "Datterini Giallo (Tomate), Parmesano Messana (10m), AOVE, Albahaca, Mozzarella, Búfala fino cottura (Fresca), Limón.",
+          "description": "Datterini Giallo (Tomate), Parmeggiano Reggiano DOP, AOVE, Albahaca, Mozzarella, Búfala fino cottura (Fresca), Limón.",
           "price": 39500,
           "image": "foods/margheritas/margherita-gialla.JPG"
         },
         {
           "id": 2,
           "name": "Margherita Tradicional",
-          "description": "San Marzano passata e filetti (Tomate), Parmesano Messana (10m), Albahaca, Mozzarella, AOVE.",
+          "description": "San Marzano passata e filetti (Tomate), Parmeggiano Reggiano DOP, Albahaca, Fior Di Latte (Mozzarella Fresca), AOVE.",
           "price": 39500,
-          "image": "foods/margheritas/margherita-tradicional.JPG"
+          "image": "foods/margheritas/margherita-tradicional-2.JPG"
         },
         {
           "id": 3,
           "name": "Margherita Con Búfala",
-          "description": "San Marzano passata e filetti (Tomate), Parmesano Messana (10m), Albahaca, Búfala, AOVE.",
+          "description": "San Marzano passata e filetti (Tomate), Parmeggiano Reggiano DOP, Albahaca, Búfala, AOVE.",
           "price": 39500,
           "image": "foods/margheritas/margheritaconbufala.jpg"
         },
         {
           "id": 5,
           "name": "Margherita Caramella",
-          "description": "Datterini Caramella (Tomate), 100% Búfala, Albahaca, Parmesano de Búfala fino cottura, AOVE.",
+          "description": "Datterini Caramella (Tomate), Fior Di Latte (Mozzarella Fresca), Albahaca, Parmesano de Búfala fino cottura, AOVE.",
           "price": 39500,
           "image": "foods/margheritas/margherita-caramella.JPG"
         },
@@ -56,7 +56,7 @@
         {
           "id": 36,
           "name": "3 Pomodori",
-          "description": "Datterini Giallo & Caramella (Tomate), 100% Búfala, Tomate Seco fino cottura, Parmesano Messana (10m), Albahaca, AOVE.",
+          "description": "Datterini Giallo & Caramella (Tomate), Fior Di Latte (Mozzarella Fresca), Tomate Seco fino cottura, GranaPadano DOP, Albahaca, AOVE.",
           "price": 39500,
           "image": ""
         }
@@ -69,7 +69,7 @@
         {
           "id": 8,
           "name": "Provola e Pepe",
-          "description": "San Marzano passata (Tomate), Provolone Italiano Ahumado, Datterini Caramella Confitado (Tomate), AOVE, Pimienta, Albahaca fino cottura.",
+          "description": "San Marzano passata (Tomate), Provolone Valpadana DOP - Ahumado, Datterini Caramella Confitado (Tomate), AOVE, Pimienta, Albahaca fino cottura.",
           "price": 39500,
           "image": "foods/clasicas/provola-e-pepe.jpg"
         },
@@ -83,14 +83,14 @@
         {
           "id": 10,
           "name": "Quattro Formaggi",
-          "description": "Queso Azúl Danés, Manchego Caciotta Toscana, Provola Italiana, Parmesano Messana (10m), Mozzarella, Búfala, Albahaca, AOVE, Parmesano fino cottura.",
+          "description": "Queso Azúl Danés, Manchego Caciotta Toscana, Provola Italiana, GranaPadano DOP, Mozzarella, Búfala, Albahaca, AOVE, Parmesano fino cottura.",
           "price": 39500,
           "image": "foods/clasicas/quattro-formaggi.jpg"
         },
         {
           "id": 11,
           "name": "Capricciosa (Prosciutto e Funghi)",
-          "description": "Jamón cotto Italiano, Champiñones, Alcachofa, Aceitunas, Parmesano Messana (10m), Pimienta & Parmesano fino cottura.",
+          "description": "Jamón cotto Italiano, Champiñones, Alcachofa, Aceitunas, GranaPadano DOP, Pimienta & Parmesano fino cottura.",
           "price": 39500,
           "image": "foods/clasicas/capricciosa.JPG"
         },
@@ -110,7 +110,7 @@
         },
         {
           "id": 14,
-          "name": "Fugazzeta (pizza fest 25)",
+          "name": "Fugazzetta (pizza fest 25)",
           "description": "RIPIENA: Mozzarella, Provolone Italiano, Jamón pavo, Cebolla, Orégano, Pimienta.",
           "price": 39500,
           "image": "foods/clasicas/fugazzetta.PNG"
@@ -118,30 +118,30 @@
         {
           "id": 23,
           "name": "RIPIENO (Calzone) - Ricotta e Salami",
-          "description": "Ricotta, Salame Italiano, Albahaca, Mozzarella, Parmesano Messana (10m), Pomodoro, AOVE.",
+          "description": "Ricotta, Salame Italiano, Albahaca, Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Pomodoro, AOVE.",
           "price": 39500,
           "image": "foods/clasicas/ripieno-ricotta-e-bufala.JPG"
         },
         {
           "id": 37,
           "name": "Mediterránea",
-          "description": "Anchoas, Aceitunas, 100% Búfala, Parmesano Messana (10m), Pomodoro filetti (Tomate), Albahaca, Orégano, AOVE.",
+          "description": "Anchoas, Aceitunas, Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Pomodoro filetti (Tomate), Albahaca, Orégano, AOVE.",
           "price": 39500,
           "image": "foods/margheritas/mediterranea.jpg"
         },
         {
           "id": 18,
           "name": "Alle Verdure",
-          "description": "Tomate, Espinaca, Champiñón, Cebolla, Aceitunas, Parmesano Messana (10m), Búfala, Mozzarella, Pimienta.",
+          "description": "Tomate, Espinaca, Champiñón, Cebolla, Aceitunas, GranaPadano DOP, Búfala, Mozzarella, Pimienta.",
           "price": 39500,
           "image": "foods/clasicas/alle-verdure.JPG"
         },
         {
           "id": 19,
           "name": "Genovesa",
-          "description": "Salsa Pesto, Champiñones, Pomodorino filetti (Tomate), Mozzarella, Parmesano Messana (10m), Piñones, Pecorino Romano DOP, Albahaca, Pimienta.",
+          "description": "Salsa Pesto, Champiñones, Pomodorino filetti (Tomate), Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Piñones, Pecorino Romano DOP, Albahaca, Pimienta.",
           "price": 39500,
-          "image": "foods/clasicas/genovesa.JPG"
+          "image": "foods/clasicas/genovesa-2.JPG"
         },
         {
           "id": 20,
@@ -160,7 +160,7 @@
         {
           "id": 21,
           "name": "Bresaola & Balsámico",
-          "description": "Pomodoro passata (Tomate), Mozzarella, Parmesano Messana (10m), Rúcula, Bresaola Italiana, Balsámico di Modena (IGP) & Parmesano fino cottura.",
+          "description": "Pomodoro passata (Tomate), Mozzarella, GranaPadano DOP, Rúcula, Bresaola Italiana, Balsámico di Modena (IGP) & Parmesano fino cottura.",
           "price": 39500,
           "image": "foods/clasicas/bresaola-e-balsamico-2.png"
         },
@@ -223,7 +223,7 @@
         },
         {
           "id": 31,
-          "name": "Cerveza Heineken",
+          "name": "Cerveza",
           "description": "Lata Cerveza Heineken 330ml.",
           "price": 10000,
           "image": ""
@@ -232,21 +232,21 @@
           "id": 32,
           "name": "Agua",
           "description": "Botella de agua de manantial.",
-          "price": 3500,
+          "price": 5000,
           "image": ""
         },
         {
           "id": 33,
           "name": "Limonada Natural",
           "description": "",
-          "price": 4500,
+          "price": 5000,
           "image": ""
         },
         {
           "id": 34,
-          "name": "Coca Cola",
+          "name": "Coca-Cola",
           "description": "Botella 400 ml.",
-          "price": 4500,
+          "price": 5000,
           "image": ""
         }
       ]

@@ -50,13 +50,13 @@ export default function Footer() {
             className="text-sm mb-2"
             style={{ fontFamily: 'var(--font-body)', color: 'rgba(255,255,255,0.85)' }}
           >
-            Viernes, Sabados &amp; Domingos
+            Jueves a Domingo
           </p>
           <p
             className="text-sm"
             style={{ fontFamily: 'var(--font-body)', color: 'rgba(255,255,255,0.85)' }}
           >
-            9:00 AM - 7:00 PM
+            12:00 - 9:00 PM
           </p>
         </div>
 

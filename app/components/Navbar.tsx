@@ -359,13 +359,13 @@ export default function Navbar() {
                 className="text-xs"
                 style={{ fontFamily: 'var(--font-body)', color: 'rgba(255,255,255,0.5)' }}
               >
-                Viernes, Sábados &amp; Domingos
+                Jueves a Domingo
               </p>
               <p
                 className="text-xs"
                 style={{ fontFamily: 'var(--font-body)', color: 'rgba(255,255,255,0.5)' }}
               >
-                9:00 AM – 7:00 PM
+                12:00 - 9:00 PM
               </p>
             </div>
           </div>
