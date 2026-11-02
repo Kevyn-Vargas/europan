@@ -5,60 +5,60 @@
       "label": "MARGHERITAS",
       "items": [
         {
-          "id": 1,
+          "id": 101,
           "name": "Margherita Gialla",
           "description": "Datterini Giallo (Tomate), Parmeggiano Reggiano DOP, AOVE, Albahaca, Mozzarella, Búfala fino cottura (Fresca), Limón.",
           "price": 44500,
           "image": "foods/margheritas/margherita-gialla.JPG"
         },
         {
-          "id": 2,
+          "id": 102,
           "name": "Margherita Tradicional",
           "description": "San Marzano passata e filetti (Tomate), Parmeggiano Reggiano DOP, Albahaca, Fior Di Latte (Mozzarella Fresca), AOVE.",
           "price": 44500,
           "image": "foods/margheritas/margherita-tradicional-2.JPG"
         },
         {
-          "id": 3,
+          "id": 103,
           "name": "Margherita Con Búfala",
           "description": "San Marzano passata e filetti (Tomate), Parmeggiano Reggiano DOP, Albahaca, Búfala, AOVE.",
           "price": 44500,
           "image": "foods/margheritas/margheritaconbufala.jpg"
         },
         {
-          "id": 5,
+          "id": 104,
           "name": "Margherita Caramella",
           "description": "Datterini Caramella (Tomate), Fior Di Latte (Mozzarella Fresca), Albahaca, Parmesano de Búfala fino cottura, AOVE.",
           "price": 44500,
           "image": "foods/margheritas/margherita-caramella.JPG"
         },
         {
-          "id": 6,
+          "id": 105,
           "name": "Antica Margherita (marinara) 1734'",
           "description": "Pomodoro passata e filetti (Tomate), Ajo, Albahaca, Orégano, AOVE, Burrata fino cottura.",
           "price": 44500,
           "image": "foods/margheritas/antica-margherita.JPG"
         },
         {
-          "id": 35,
+          "id": 106,
           "name": "Zar Cosacca 1847'",
           "description": "Pecorino Romano D.O.P. cubos & fino cottura, Pomodorino Rossi e Gialli filetti (Tomate), Albahaca, Orégano, AOVE.",
           "price": 44500,
           "image": ""
         },
         {
-          "id": 7,
+          "id": 107,
           "name": "Campagnola (marinara)",
           "description": "Pomodoro passata e filetti (Tomate), Anchoa, Aceituna, Alcaparra, Orégano, AOVE, Albahaca. {Peperoncino opcional}.",
           "price": 44500,
           "image": "foods/margheritas/campagnola(marinara).jpg"
         },
         {
-          "id": 36,
+          "id": 108,
           "name": "3 Pomodori",
           "description": "Datterini Giallo & Caramella (Tomate), Fior Di Latte (Mozzarella Fresca), Tomate Seco fino cottura, GranaPadano DOP, Albahaca, AOVE.",
           "price": 44500,
-          "image": ""
+          "image": "foods/margheritas/3-pomodori.jpg"
         }
       ]
     },
@@ -67,119 +67,133 @@
       "label": "CLÁSICAS",
       "items": [
         {
-          "id": 38,
+          "id": 201,
           "name": "Pizza Affumicata",
           "description": "Burrata de Nápoles Ahumada (Affumicata), Datterini Caramella Confitado (Tomate), Rúcula, Reducción de Aceto Balsámico Di Modena IGP.",
           "price": 44500,
           "image": "foods/clasicas/affumicata.jpeg"
         },
         {
-          "id": 8,
+          "id": 202,
           "name": "Provola e Pepe",
           "description": "San Marzano passata (Tomate), Provolone Valpadana DOP - Ahumado, Datterini Caramella Confitado (Tomate), AOVE, Pimienta, Albahaca fino cottura.",
           "price": 44500,
           "image": "foods/clasicas/provola-e-pepe.jpg"
         },
         {
-          "id": 9,
+          "id": 203,
           "name": "Tre Fratelli",
           "description": "Salame Italiano, Jamón cotto Italiano, Prosciutto Italiano fino cottura, Mozzarella, Búfala.",
           "price": 44500,
           "image": "foods/clasicas/tre-fratelli.JPG"
         },
         {
-          "id": 10,
+          "id": 204,
           "name": "Quattro Formaggi",
           "description": "Queso Azúl Danés, Manchego Caciotta Toscana, Provola Italiana, GranaPadano DOP, Mozzarella, Búfala, Albahaca, AOVE, Parmesano fino cottura.",
           "price": 44500,
           "image": "foods/clasicas/quattro-formaggi.jpg"
         },
         {
-          "id": 11,
+          "id": 205,
           "name": "Capricciosa (Prosciutto e Funghi)",
           "description": "Jamón cotto Italiano, Champiñones, Alcachofa, Aceitunas, GranaPadano DOP, Pimienta & Parmesano fino cottura.",
           "price": 44500,
           "image": "foods/clasicas/capricciosa.JPG"
         },
         {
-          "id": 12,
+          "id": 206,
           "name": "Mía Innamorata ~ Pizza Rosé",
           "description": "Nduja Italiana (picante), Gorgonzola D.O.P. (Azul It) fino cottura, Cebolla, Albahaca, Mozzarella, Parmesano.",
           "price": 44500,
           "image": "foods/clasicas/mia-innamorata.jpg"
         },
         {
-          "id": 13,
+          "id": 219,
+          "name": "Pizza Calabrese",
+          "description": "Salame Calabrese, Fior di Latte, Burrata di Búfala, Albahaca, Pepperoncino.",
+          "price": 44500,
+          "image": "foods/clasicas/calabrese.jpg"
+        },
+        {
+          "id": 207,
           "name": "Di Ficco (pizza fest 25)",
           "description": "Higos Maduros, Queso Azúl Danés, Miel, Búfala, Prosciutto Italiano fino cottura.",
           "price": 44500,
           "image": "foods/clasicas/di-fico.jpg"
         },
         {
-          "id": 14,
+          "id": 208,
           "name": "Fugazzetta (pizza fest 25)",
           "description": "RIPIENA: Mozzarella, Provolone Italiano, Jamón pavo, Cebolla, Orégano, Pimienta.",
           "price": 44500,
           "image": "foods/clasicas/fugazzetta.PNG"
         },
         {
-          "id": 23,
+          "id": 209,
           "name": "RIPIENO (Calzone) - Ricotta e Salami",
           "description": "Ricotta, Salame Italiano, Albahaca, Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Pomodoro, AOVE.",
           "price": 44500,
           "image": "foods/clasicas/ripieno-ricotta-e-bufala.JPG"
         },
         {
-          "id": 37,
+          "id": 210,
           "name": "Mediterránea",
           "description": "Anchoas, Aceitunas, Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Pomodoro filetti (Tomate), Albahaca, Orégano, AOVE.",
           "price": 44500,
           "image": "foods/margheritas/mediterranea.jpg"
         },
         {
-          "id": 18,
+          "id": 211,
           "name": "Alle Verdure",
           "description": "Tomate, Espinaca, Champiñón, Cebolla, Aceitunas, GranaPadano DOP, Búfala, Mozzarella, Pimienta.",
           "price": 44500,
           "image": "foods/clasicas/alle-verdure.JPG"
         },
         {
-          "id": 19,
+          "id": 212,
           "name": "Genovesa",
           "description": "Salsa Pesto, Champiñones, Pomodorino filetti (Tomate), Fior Di Latte (Mozzarella Fresca), GranaPadano DOP, Piñones, Pecorino Romano DOP, Albahaca, Pimienta.",
           "price": 44500,
           "image": "foods/clasicas/genovesa-2.JPG"
         },
         {
-          "id": 20,
+          "id": 220,
+          "name": "Fior Al Tartufo",
+          "description": "Flor de Calabaza {alcachofa}, Crema Trufada, Fior di Latte, Pecorino Romano Trufado, Aceite de Trufa.",
+          "price": 44500,
+          "image": "foods/clasicas/fior-al-tartufo.jpg"
+        },
+        {
+          "id": 213,
           "name": "Di Tonno",
           "description": "Atún, Cebolla, Mozzarella, Búfala.",
           "price": 44500,
           "image": "foods/clasicas/tonno-e-cipolla.jpg"
         },
         {
-          "id": 16,
+          "id": 214,
           "name": "Bianca al Pistacchio",
           "description": "Mortadella de Pistacchio Italiana (IGP), Pistacho, Búfala fino cottura, Mozzarella, Albahaca.",
           "price": 44500,
           "image": "foods/clasicas/bianca-al-pistacchio.jpg"
         },
         {
-          "id": 21,
+          "id": 215,
           "name": "Bresaola & Balsámico",
           "description": "Pomodoro passata (Tomate), Mozzarella, GranaPadano DOP, Rúcula, Bresaola Italiana, Balsámico di Modena (IGP) & Parmesano fino cottura.",
           "price": 44500,
           "image": "foods/clasicas/bresaola-e-balsamico-2.png"
         },
         {
-          "id": 22,
+          "id": 216,
           "name": "Dolce Vitta",
           "description": "Manzana de Agua, Arándano, Miel, Mozzarella, Búfala.",
           "price": 44500,
           "image": "foods/clasicas/dolce-vita.jpg"
         },
         {
-          "id": 15,
+          "id": 217,
           "name": "Nduja e Cipolla",
           "description": "'Nduja Italiana {picante}, Tomate, Cebolla, Mozzarella.",
           "price": 44500,
@@ -187,7 +201,7 @@
           "image": "foods/clasicas/tonno-e-cipolla.jpg"
         },
         {
-          "id": 17,
+          "id": 218,
           "name": "Taleggio Imperiale",
           "description": "Queso Taleggio Italiano (800 e.c), Orellanas (setas), Romero, Ajo, Mozzarella, Pimienta.",
           "price": 44500,
@@ -202,7 +216,7 @@
       "note": "Preguntar disponibilidad",
       "items": [
         {
-          "id": 24,
+          "id": 301,
           "name": "Lasagna ~ Bolognesa (Ragú)",
           "description": "Pasta 100% Artesanal, Bolognesa, Bechamel, Parmesano, Mozzarella, Pomodoro.",
           "price": 32000,
@@ -215,45 +229,123 @@
       "label": "BEBIDAS",
       "items": [
         {
-          "id": 29,
+          "id": 401,
+          "name": "¡Aperol Soda!",
+          "description": "",
+          "price": 18500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 402,
+          "name": "Aperol Spritz",
+          "description": "",
+          "price": 42500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 403,
+          "name": "Campari",
+          "description": "",
+          "price": 22500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 404,
+          "name": "Campari Soda",
+          "description": "",
+          "price": 22500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 405,
+          "name": "Vermut Soda",
+          "description": "",
+          "price": 22500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 406,
+          "name": "Vermut Rosso",
+          "description": "",
+          "price": 18500,
+          "group": "Aperitivi",
+          "image": ""
+        },
+        {
+          "id": 407,
+          "name": "Negroni",
+          "description": "",
+          "price": 44500,
+          "group": "Cocktail",
+          "image": ""
+        },
+        {
+          "id": 408,
+          "name": "Limoncello Shot",
+          "description": "",
+          "price": 12500,
+          "group": "Cocktail",
+          "image": ""
+        },
+        {
+          "id": 409,
           "name": "Vino de la Casa",
           "description": "Vino Joven",
           "price": 80000,
+          "group": "Vini e Birre",
           "image": ""
         },
         {
-          "id": 30,
+          "id": 410,
           "name": "Copa Vino",
           "description": "Copa Vino Carmenere 'Livana' de la Casa.",
           "price": 15000,
+          "group": "Vini e Birre",
           "image": ""
         },
         {
-          "id": 31,
+          "id": 411,
           "name": "Cerveza",
           "description": "Lata Cerveza Heineken 330ml.",
           "price": 10000,
+          "group": "Vini e Birre",
           "image": ""
         },
         {
-          "id": 32,
+          "id": 412,
+          "name": "Peroni",
+          "description": "",
+          "price": 14000,
+          "group": "Vini e Birre",
+          "image": ""
+        },
+        {
+          "id": 413,
           "name": "Agua",
           "description": "Botella de agua de manantial.",
           "price": 5000,
+          "group": "Senza Alcol",
           "image": ""
         },
         {
-          "id": 33,
+          "id": 414,
           "name": "Limonada Natural",
           "description": "",
           "price": 5000,
+          "group": "Senza Alcol",
           "image": ""
         },
         {
-          "id": 34,
+          "id": 415,
           "name": "Coca-Cola",
           "description": "Botella 400 ml.",
           "price": 5000,
+          "group": "Senza Alcol",
           "image": ""
         }
       ]

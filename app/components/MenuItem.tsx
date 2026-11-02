@@ -9,6 +9,7 @@ export interface MenuItemData {
   price: number;
   image: string;
   active?: boolean;
+  group?: string;
 }
 
 interface MenuItemProps {
